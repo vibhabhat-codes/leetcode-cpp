@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0039-combination-sum) |
+| [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
