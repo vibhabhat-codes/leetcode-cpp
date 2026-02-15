@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
