@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
