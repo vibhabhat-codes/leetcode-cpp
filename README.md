@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -163,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
