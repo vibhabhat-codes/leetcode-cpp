@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0039-combination-sum) |
+| [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
