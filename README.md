@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
 ## Recursion
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
