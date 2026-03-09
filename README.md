@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
 ## Bit Manipulation
