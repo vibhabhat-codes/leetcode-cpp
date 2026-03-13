@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0125-valid-palindrome) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 ## Simulation
 |  |
