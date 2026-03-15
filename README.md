@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
