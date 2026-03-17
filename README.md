@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
