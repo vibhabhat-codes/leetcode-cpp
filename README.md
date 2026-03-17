@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0242-valid-anagram) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
