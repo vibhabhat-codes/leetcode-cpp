@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
