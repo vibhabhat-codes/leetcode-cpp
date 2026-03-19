@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0670-maximum-swap) |
 ## Counting
 |  |
 | ------- |
