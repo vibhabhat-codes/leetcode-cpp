@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0657-robot-return-to-origin) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |
 | ------- |
