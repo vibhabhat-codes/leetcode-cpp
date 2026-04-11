@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |
