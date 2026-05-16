@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0231-power-of-two) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0014-longest-common-prefix) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0053-maximum-subarray) |
