@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0367-valid-perfect-square) |
