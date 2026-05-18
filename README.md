@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
+| [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2615-sum-of-distances](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3488-closest-equal-element-queries) |
@@ -372,4 +374,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
