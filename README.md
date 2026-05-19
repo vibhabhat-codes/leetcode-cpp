@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2540-minimum-common-value](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2906-construct-product-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
 | [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2540-minimum-common-value](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3488-closest-equal-element-queries) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
+| [2540-minimum-common-value](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
