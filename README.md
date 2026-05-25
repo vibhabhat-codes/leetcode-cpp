@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0657-robot-return-to-origin) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1871-jump-game-vii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1871-jump-game-vii) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2573-find-the-string-with-lcp](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1871-jump-game-vii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0338-counting-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1871-jump-game-vii) |
 | [2573-find-the-string-with-lcp](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2573-find-the-string-with-lcp) |
 ## String Matching
 |  |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
