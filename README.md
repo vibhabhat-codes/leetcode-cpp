@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0242-valid-anagram) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0120-triangle) |
