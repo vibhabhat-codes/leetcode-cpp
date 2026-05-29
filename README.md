@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2906-construct-product-matrix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0670-maximum-swap) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
