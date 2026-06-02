@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
+| [0517-super-washing-machines](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
