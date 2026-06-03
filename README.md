@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [2540-minimum-common-value](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0670-maximum-swap) |
@@ -451,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
