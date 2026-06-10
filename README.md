@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0355-design-twitter) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
