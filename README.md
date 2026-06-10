@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0670-maximum-swap) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
 |  |
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting Sort
