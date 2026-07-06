@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0517-super-washing-machines) |
+| [0560-subarray-sum-equals-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0605-can-place-flowers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [1871-jump-game-vii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2906-construct-product-matrix) |
