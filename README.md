@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0670-maximum-swap) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [2573-find-the-string-with-lcp](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2573-find-the-string-with-lcp) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
