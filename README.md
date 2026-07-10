@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0136-single-number) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0338-counting-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1871-jump-game-vii) |
