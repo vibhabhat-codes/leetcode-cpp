@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
