@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -521,13 +522,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0355-design-twitter) |
+| [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0133-clone-graph) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
