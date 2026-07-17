@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0118-pascals-triangle) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
