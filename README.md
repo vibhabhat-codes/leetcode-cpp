@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0517-super-washing-machines) |
 | [0560-subarray-sum-equals-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
