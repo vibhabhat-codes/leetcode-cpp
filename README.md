@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0268-missing-number) |
