@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
