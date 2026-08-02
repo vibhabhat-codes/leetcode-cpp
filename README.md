@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0133-clone-graph) |
 | [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
 |  |
 | ------- |
