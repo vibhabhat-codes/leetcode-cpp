@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0670-maximum-swap) |
+| [0877-stone-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0877-stone-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1871-jump-game-vii) |
 | [2573-find-the-string-with-lcp](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/2573-find-the-string-with-lcp) |
@@ -570,4 +573,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0901-online-stock-span) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
