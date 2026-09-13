@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vibhabhat0410-rgb/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/vibhabhat-codes/leetcode-cpp/tree/master/1345-jump-game-iv) |
 ## Bucket Sort
